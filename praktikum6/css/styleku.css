@@ -1,0 +1,54 @@
+body{
+    background-color: bisque;
+    font-family: 'lucida sans', verdana , sans-serif;
+}
+/* untuk ubah style heaser */
+#header{
+    background-color: burlywood;
+    text-align: center;
+    padding: 10px;
+}
+#header h1{
+    color: blue;
+}
+#header blockquote{
+    background-color: yellow;
+    border: 1px dotted black;
+}
+/* untuk style menu */ 
+.menu ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 10px;
+}
+/* untuk style gambar */
+.gambar{
+    text-align: center;
+}
+.gambar img{
+    width: 30%
+}
+/* untuk style gambar koleksi */
+.koleksi{
+    text-align: center;
+}
+.koleksi img{
+    width: 20%
+}
+/* untuk style promo */
+.promo{
+    text-align: center;
+    color: red;
+}
+.promo h3{
+    background-color: mediumorchid;
+    text-align: center;
+    border: 1px dotted red;
+    font-weight: bold;
+    color: blue;
+    margin: auto;
+}
+
+    
+
